@@ -24,7 +24,6 @@ Hi, I am Xiao. I received my Ph.D. degree in Computer Science at Nanjing Univers
 Currently, our interests lie broadly in reinforcement learning, explainable artificial intelligence and model measurement and evaluation.
 
 
-
 ## Publications
 
 - Wubing Chen, Shangdong Yang, Wenbin Li, Yujing Hu, Xiao Liu, Yang Gao*. Learning Multi-Intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning. IEEE Transactions on Intelligent Transportation Systems, 2024. https://ieeexplore.ieee.org/abstract/document/10556581
