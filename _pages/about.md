@@ -27,7 +27,11 @@ Currently, our interests lie broadly in reinforcement learning, explainable arti
 
 ## 📝 Publications
 
-- W Chen, S Yang, W Li, Y Hu, **X Liu**, Y Gao. Learning Multi-Intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning. IEEE Transactions on Intelligent Transportation Systems, 2024. (https://ieeexplore.ieee.org/abstract/document/10556581)
+- W Chen, S Yang, W Li, Y Hu, X Liu, Y Gao. Learning Multi-Intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning. IEEE Transactions on Intelligent Transportation Systems, 2024. https://ieeexplore.ieee.org/abstract/document/10556581
+- 
+<!--- 
+Hui Li, Changhao Zhu*, Xiao Liu, Lijuan Li, Hongzhi Liu. Hybrid binarized neural network for high-accuracy classification of power quality disturbances. Electr Eng (2024). https://doi.org/10.1007/s00202-024-02650-y
+-->
 
 ## Grants
 
