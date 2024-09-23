@@ -25,7 +25,7 @@ Currently, our interests lie broadly in reinforcement learning, explainable arti
 
 
 
-## 📝 Publications
+## Publications
 
 - W Chen, S Yang, W Li, Y Hu, X Liu, Y Gao. Learning Multi-Intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning. IEEE Transactions on Intelligent Transportation Systems, 2024. https://ieeexplore.ieee.org/abstract/document/10556581
 - ...
