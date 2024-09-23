@@ -17,14 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+刘潇，男，博士，2023年获得南京大学博士学位。2023年9月起在湘潭大学自动化与电子信息学院从教至今，主要研究人工智能和机器学习。
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+我的研究兴趣包括：可解释人工智能、强化学习、模型评估和安全部署。
 
+📝 论文 
+- W Chen, S Yang, W Li, Y Hu, **X Liu**, Y Gao. Learning Multi-Intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning. IEEE Transactions on Intelligent Transportation Systems, 2024. (https://ieeexplore.ieee.org/abstract/document/10556581)
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!--
+
+📖 履历
+- *2023.07 - now*, 湘潭大学，讲师
+- *2019.09 - 2023.6*, 南京大学，博士研究生，导师高阳教授
+- *2018.09 - 2019.6*, 武汉大学，学术访问，导师杜博教授
+- *2015.09 - 2018.6*, 中南民族大学，硕士研究生，导师周斌教授
+- *2010.09 - 2014.6*, 中南民族大学，硕士研究生，导师周斌教授
 
 # 📝 Publications 
 
@@ -56,3 +63,4 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
