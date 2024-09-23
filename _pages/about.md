@@ -19,9 +19,9 @@ redirect_from:
 
 # About me
 
-Hi, I am Xiao. I received my Ph.D. degree in Computer Science at Nanjing University in 2019 and 2023. Currently, I am lecturer in the School of Automation and Electronic Information at Xiangtan University.
+Hi, I am Xiao. I received my Ph.D. degree in Computer Science from Nanjing University in 2019 and 2023. Currently, I am a lecturer in the School of Automation and Electronic Information at Xiangtan University.
 
-Currently, our interests lie broadly in reinforcement learning, explainable artificial intelligence and model measurement and evaluation.
+Our research interests lie broadly in reinforcement learning, explainable artificial intelligence, as well as model measurement and evaluation.
 
 # Courses
 
