@@ -21,7 +21,7 @@ redirect_from:
 
 我的研究兴趣包括：可解释人工智能、强化学习、模型评估和安全部署。
 
-📝 论文 
+📝 Publications
 - W Chen, S Yang, W Li, Y Hu, **X Liu**, Y Gao. Learning Multi-Intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning. IEEE Transactions on Intelligent Transportation Systems, 2024. (https://ieeexplore.ieee.org/abstract/document/10556581)
 
 <!--
