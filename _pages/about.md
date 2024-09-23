@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## About me
+# About me
 
 Hi, I am Xiao. I received my Ph.D. degree in Computer Science at Nanjing University in 2019 and 2023. Currently, I am lecturer in the School of Automation and Electronic Information at Xiangtan University.
 
 Currently, our interests lie broadly in reinforcement learning, explainable artificial intelligence and model measurement and evaluation.
 
 
-## Publications
+# Publications
 
 - Wubing Chen, Shangdong Yang, Wenbin Li, Yujing Hu, Xiao Liu, Yang Gao*. Learning Multi-Intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning. IEEE Transactions on Intelligent Transportation Systems, 2024. https://ieeexplore.ieee.org/abstract/document/10556581
 - Xiao Liu, Shuyang Liu, Bo An, Yang Gao*, Wenbin Li. Effective Interpretable Policy Distillation via Critical Experience Point Identification. IEEE Intelligent Systems. Vol. 38, Issue: 5, Sept.-Oct. 2023. https://doi.org/10.1109/MIS.2023.3265868
@@ -37,7 +37,7 @@ Currently, our interests lie broadly in reinforcement learning, explainable arti
 Hui Li, Changhao Zhu*, Xiao Liu, Lijuan Li, Hongzhi Liu. Hybrid binarized neural network for high-accuracy classification of power quality disturbances. Electr Eng (2024). https://doi.org/10.1007/s00202-024-02650-y
 -->
 
-## Grants
+# Grants
 
 - 国家自然科学基金青年项目，62406272，多智能体强化学习的部署安全性验证方法，2025.1-2027.12，主持
 - 湖南省自然科学基金青年项目，2024JJ6438，深度强化学习可解释策略简化与规则提取研究，2025.1-2027.12，主持
