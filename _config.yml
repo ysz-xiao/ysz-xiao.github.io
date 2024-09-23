@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "刘潇(Liu Xiao)"
+title                    : "Liu Xiao"
 description              : "."
 repository               : #"RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Liu Xiao"
+  name             : "刘潇(Liu Xiao)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "湘潭大学(Xiangtan University)"
   location         : "湘潭大学工科楼s610"
