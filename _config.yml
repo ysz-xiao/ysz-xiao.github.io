@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Liu Xiao"
-description              : "."
+description              : "liuxiao730@outlook.com"
 repository               : #"RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : liuxiao730@outlook.com
+  email            : #"liuxiao730@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
