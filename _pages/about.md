@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/9cb6e710-e066-40f4-ac5d-53012cad969d)![image](https://github.com/user-attachments/assets/a0c29aa2-20a3-4a28-a8b5-e7a03a7039fb)---
 permalink: /
 title: ""
 excerpt: ""
@@ -28,7 +28,16 @@ Currently, our interests lie broadly in reinforcement learning, explainable arti
 ## Publications
 
 - W Chen, S Yang, W Li, Y Hu, X Liu, Y Gao. Learning Multi-Intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning. IEEE Transactions on Intelligent Transportation Systems, 2024. https://ieeexplore.ieee.org/abstract/document/10556581
-- ...
+- Chen Wubin, Li Wenbin, Liu Xiao, Yang Shangdong, Gao Yang*. Learning Explicit Credit Assignment for Cooperative Multi-Agent Reinforcement Learning via Polarization Policy Gradient, Proceedings of the AAAI Conference on Artificial Intelligence. 2023.
+- Xiao Liu, Wenbin Li, Jing Huo, Lili Yao, Yang Gao*. Layerwise Sparse Coding for Pruned Deep Neural Networks with Extreme Compression Ratio. Proceedings of the AAAI Conference on Artificial Intelligence. 34(04): 4900-4907. 2020. https://doi.org/10.1609/aaai.v34i04.5927
+- Xiao Liu, Shuyang Liu, Bo An, Yang Gao*, Wenbin Li. Effective Interpretable Policy Distillation via Critical Experience Point Identification. IEEE Intelligent Systems. Vol. 38, Issue: 5, Sept.-Oct. 2023. https://doi.org/10.1109/MIS.2023.3265868
+- 刘潇,刘书洋,庄韫恺,高阳*. 强化学习可解释性基础问题探索和方法综述. 软件学报. 2023, 34(5): 2300-2316. https://doi.org/10.13328/j.cnki.jos.006485
+- Wubing Chen, Wenbin Li, Xiao Liu, Gao Yang*. Learning Explicit Credit Assignment for Cooperative Multi-Agent Reinforcement Learning via Polarization Policy Gradient, Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 37 No. 10: Technical Tracks 10. 2023. https://doi.org/10.1609/aaai.v37i10.26364
+
+
+
+
+
 <!--- 
 Hui Li, Changhao Zhu*, Xiao Liu, Lijuan Li, Hongzhi Liu. Hybrid binarized neural network for high-accuracy classification of power quality disturbances. Electr Eng (2024). https://doi.org/10.1007/s00202-024-02650-y
 -->
