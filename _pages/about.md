@@ -16,13 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+## About me
 Hi, I am Xiao. I received my Ph.D. degree in Computer Science at Nanjing University in 2019 and 2023. Currently, I am lecturer in the School of Automation and Electronic Information at Xiangtan University.
 
 Currently, our interests lie broadly in reinforcement learning, explainable artificial intelligence and model measurement and evaluation.
 
 
 
-📝 Publications
+## 📝 Publications
 - W Chen, S Yang, W Li, Y Hu, **X Liu**, Y Gao. Learning Multi-Intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning. IEEE Transactions on Intelligent Transportation Systems, 2024. (https://ieeexplore.ieee.org/abstract/document/10556581)
 
 <!--
