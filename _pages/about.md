@@ -21,7 +21,7 @@ redirect_from:
 
 Hi, I am Xiao. I received my Ph.D. degree in Computer Science from Nanjing University in 2019 and 2023. Currently, I am a lecturer in the School of Automation and Electronic Information at Xiangtan University.
 
-Our research interests lie broadly in reinforcement learning, explainable artificial intelligence, as well as model measurement and evaluation.
+Our research interests lie broadly in **reinforcement learning** and **explainable artificial intelligence**.
 
 # Courses
 
