@@ -23,6 +23,10 @@ Hi, I am Xiao. I received my Ph.D. degree in Computer Science at Nanjing Univers
 
 Currently, our interests lie broadly in reinforcement learning, explainable artificial intelligence and model measurement and evaluation.
 
+# Courses
+
+- 《Python编程与实践》
+- 《多智能体系统》
 
 # Publications
 
@@ -41,6 +45,8 @@ Hui Li, Changhao Zhu*, Xiao Liu, Lijuan Li, Hongzhi Liu. Hybrid binarized neural
 
 - 国家自然科学基金青年项目，62406272，多智能体强化学习的部署安全性验证方法，2025.1-2027.12，主持
 - 湖南省自然科学基金青年项目，2024JJ6438，深度强化学习可解释策略简化与规则提取研究，2025.1-2027.12，主持
+
+
 
 <!--
 
