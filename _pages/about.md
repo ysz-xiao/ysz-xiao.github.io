@@ -29,7 +29,7 @@ Our research interests lie broadly in **reinforcement learning** and **explainab
 - 《多智能体系统》
 
 # Publications
-- 曹宏业, 刘潇, 董绍康, 杨尚东, 霍静, 李文斌, 高 阳. 面向强化学习的可解释性研究综述. 计算机学报, Vol. 47 No. 8. 2024.
+- 曹宏业, 刘潇, 董绍康, 杨尚东, 霍静, 李文斌, 高阳*. 面向强化学习的可解释性研究综述. 计算机学报, Vol. 47 No. 8. 2024.
 http://cjc.ict.ac.cn/online/onlinepaper/chy-2024729180508.pdf
 - Wubing Chen, Shangdong Yang, Wenbin Li, Yujing Hu, Xiao Liu, Yang Gao*. Learning Multi-Intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning. IEEE Transactions on Intelligent Transportation Systems, 2024. https://ieeexplore.ieee.org/abstract/document/10556581
 - Xiao Liu, Shuyang Liu, Bo An, Yang Gao*, Wenbin Li. Effective Interpretable Policy Distillation via Critical Experience Point Identification. IEEE Intelligent Systems. Vol. 38, Issue: 5, Sept.-Oct. 2023. https://doi.org/10.1109/MIS.2023.3265868
