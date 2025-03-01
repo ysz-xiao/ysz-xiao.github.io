@@ -29,8 +29,12 @@ Our research interests lie broadly in **reinforcement learning** and **explainab
 - 《多智能体系统》
 
 # Publications
-- Mao Tan, Jie Zhao, Xiao Liu*, Yongxin Su, Ling Wang, Rui Wang, Zhuocen Dai. Federated Reinforcement Learning for smart and privacy-preserving energy management of residential microgrids clusters. Engineering Applications of Artificial Intelligence, 2024.
-https://doi.org/10.1016/j.engappai.2024.109579
+
+- Explainable reinforcement learning for enhancing personal thermal comfort and optimizing demand response in household multi-zone HVAC system, Yongxin Su1, Mengyao Xu1, Xiao Liu1, Mao Tan1, Rui Wang2, Chunhua Yang3. SCIENCE CHINA. 2025
+- Mao Tan, Jie Zhao, Xiao Liu, Yongxin Su, Ling Wang, Rui Wang, Zhuocen Dai, Federated Reinforcement Learning for smart and privacy-preserving energy management of residential microgrids clusters, Engineering Applications of Artificial Intelligence, Volume 139, Part B, 2025, 109579, ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2024.109579.
+- Li H, Zhu C, Liu X, et al. Hybrid binarized neural network for high-accuracy classification of power quality disturbances[J]. Electrical Engineering, 2024: 1-11.
+https://doi.org/10.1007/s00202-024-02650-y.
 - 曹宏业, 刘潇, 董绍康, 杨尚东, 霍静, 李文斌, 高阳*. 面向强化学习的可解释性研究综述. 计算机学报, Vol. 47 No. 8. 2024.
 http://cjc.ict.ac.cn/online/onlinepaper/chy-2024729180508.pdf
 - Wubing Chen, Shangdong Yang, Wenbin Li, Yujing Hu, Xiao Liu, Yang Gao*. Learning Multi-Intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning. IEEE Transactions on Intelligent Transportation Systems, 2024. https://ieeexplore.ieee.org/abstract/document/10556581
