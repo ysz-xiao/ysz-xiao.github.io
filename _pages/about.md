@@ -31,7 +31,7 @@ Our research interests lie broadly in **reinforcement learning** and **explainab
 # Publications
 - Yongxin Su, Mengyao Xu, Xiao Liu, Mao Tan, Rui Wang, Chunhua Yang. Explainable reinforcement learning for enhancing personal thermal comfort and optimizing demand response in household multi-zone HVAC system. Science China. 2025.
 https://doi.org/10.1007/s11431-024-2895-7.
-- Mao Tan, Jie Zhao, Xiao Liu, Yongxin Su, Ling Wang, Rui Wang, Zhuocen Dai, Federated Reinforcement Learning for smart and privacy-preserving energy management of residential microgrids clusters, Engineering Applications of Artificial Intelligence, Volume 139, Part B, 2025, 109579, ISSN 0952-1976,
+- Mao Tan, Jie Zhao, Xiao Liu*, Yongxin Su, Ling Wang, Rui Wang, Zhuocen Dai, Federated Reinforcement Learning for smart and privacy-preserving energy management of residential microgrids clusters, Engineering Applications of Artificial Intelligence, Volume 139, Part B, 2025, 109579, ISSN 0952-1976,
 https://doi.org/10.1016/j.engappai.2024.109579.
 - Li H, Zhu C, Liu X, et al. Hybrid binarized neural network for high-accuracy classification of power quality disturbances[J]. Electrical Engineering, 2024: 1-11.
 https://doi.org/10.1007/s00202-024-02650-y.
