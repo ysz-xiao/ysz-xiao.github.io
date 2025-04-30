@@ -25,8 +25,9 @@ Our research interests lie broadly in **reinforcement learning** and **explainab
 
 # Courses
 
-- 《Python编程与实践》
+- 《人工智能微专业：Python编程与实践》
 - 《多智能体系统》
+- 《计算机操作系统》
 
 # Publications
 <!--- 
