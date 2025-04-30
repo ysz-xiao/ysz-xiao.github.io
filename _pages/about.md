@@ -31,6 +31,7 @@ Our research interests lie broadly in **Reinforcement Learning** and **Explainab
 <!--- 
 - Xizheng Qiao, Xinyi Peng, Kangrui Qi, Xiao Liu*. Symbolic Kolmogorov-Arnold Policy Gradient: An Interpretable Deep Reinforcement Learning Approach for DER Scheduling in Active Distribution Networks, Electric Power Systems Research (投稿，本科生一作)
 - Yannan Guo, Jianling Yao, Jianyang Yao, Xiao Liu*. SPMC: A Frequency Domain-Based Multi-Classification Method for Detecting Anomalies in Bitcoin Transactions, Applied Intelligence, 2025. (投稿，本科生一作)
+- Lin Wang, Fan Zhou, Xiao Liu. Transformer Fault Diagnosis Using DeepFaultNet on Imbalanced Datasets, IEEE Transactions on Dielectrics and Electrical Insulation. (投稿，本科生二作)
 -->
 
 - Yongxin Su, Mengyao Xu, Xiao Liu, Mao Tan*, Rui Wang, Chunhua Yang. Explainable reinforcement learning for enhancing personal thermal comfort and optimizing demand response in household multi-zone HVAC system. Science China. 2025.
