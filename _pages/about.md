@@ -50,7 +50,7 @@ http://cjc.ict.ac.cn/online/onlinepaper/chy-2024729180508.pdf
 
 # Conference Papers
 - Xizheng Qiao, Xinyi Peng, Kangrui Qi, Xiao Liu*. Enhancing DER Scheduling in Active Distribution Networks: A Symbolic Deep Reinforcement Learning Approach for Improved Interpretability and Performance, 2025 IEEE International Symposium on the Application of Artificial Intelligence in Electrical Engineering, 2025. (本科生一作)
-- Jing Shi, Xinyi Peng, Xizheng Qiao, Xiao Liu*. Balancing Accuracy and Explainability: An Ensemble-KAN Model for Patent Grant Prediction, International Society for Scientometrics and Informetrics (ISSI), 2025. (本科生二作)
+- Jing Shi, Xinyi Peng, Xizheng Qiao, Xiao Liu*. Balancing Accuracy and Explainability: An Ensemble-KAN Model for Patent Grant Prediction, 20th International Society of Scientometrics and Informetrics Conference, Yerevan, Armenia, 2025. (本科生二作)
 
 
 # Grants
