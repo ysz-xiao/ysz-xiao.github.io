@@ -39,10 +39,9 @@ Hi, I am Xiao. I received my Ph.D. in Computer Science from Nanjing University i
 -->
 
 
-- Xiao Liu, Wenbin Li, Jing Huo, Lili Yao, Yang Gao*. Layerwise sparse coding for pruned deep neural networks with extreme compression ratio. Proceedings of the aaai conference on artificial intelligence. 34(04): 4900-4907. 2020. https://doi.org/10.1609/aaai.v34i04.5927
 - Yongxin Su, Mengyao Xu, Xiao Liu, Mao Tan*, Rui Wang, Chunhua Yang. Explainable reinforcement learning for enhancing personal thermal comfort and optimizing demand response in household multi-zone HVAC system. Science China. 2025.
 https://doi.org/10.1007/s11431-024-2895-7.
-- Mao Tan, Jie Zhao, Xiao Liu*, Yongxin Su, Ling Wang, Rui Wang, Zhuocen Dai, Federated reinforcement learning for smart and privacy-preserving energy management of residential microgrids clusters, Engineering Applications of Artificial Intelligence, Volume 139, Part B, 2025, 109579, ISSN 0952-1976,
+- Mao Tan, Jie Zhao, Xiao Liu*, Yongxin Su, Ling Wang, Rui Wang, Zhuocen Dai, Federated Reinforcement Learning for smart and privacy-preserving energy management of residential microgrids clusters, Engineering Applications of Artificial Intelligence, Volume 139, Part B, 2025, 109579, ISSN 0952-1976.
 https://doi.org/10.1016/j.engappai.2024.109579.
 - Hui Li, Changhao Zhu*, Xiao Liu, Lijuan Li, Hongzhi Liu. Hybrid binarized neural network for high-accuracy classification of power quality disturbances. Electrical Engineering, 2024. https://doi.org/10.1007/s00202-024-02650-y
 - 曹宏业, 刘潇, 董绍康, 杨尚东, 霍静, 李文斌, 高阳*. 面向强化学习的可解释性研究综述. 计算机学报, Vol. 47 No. 8. 2024.
@@ -51,7 +50,7 @@ http://cjc.ict.ac.cn/online/onlinepaper/chy-2024729180508.pdf
 - Wubing Chen, Wenbin Li, Xiao Liu, Gao Yang*. Learning explicit credit assignment for cooperative multi-agent reinforcement learning via polarization policy gradient, proceedings of the aaai conference on artificial intelligence. Vol. 37 No. 10: Technical Tracks 10. 2023. https://doi.org/10.1609/aaai.v37i10.26364
 - Xiao Liu, Shuyang Liu, Bo An, Yang Gao*, Wenbin Li. Effective interpretable policy distillation via critical experience point identification. IEEE Intelligent Systems. Vol. 38, Issue: 5, Sept.-Oct. 2023. https://doi.org/10.1109/MIS.2023.3265868
 - 刘潇, 刘书洋, 庄韫恺, 高阳*. 强化学习可解释性基础问题探索和方法综述. 软件学报. 2023, 34(5): 2300-2316. https://doi.org/10.13328/j.cnki.jos.006485
-
+- Xiao Liu, Wenbin Li, Jing Huo, Lili Yao, Yang Gao*. Layerwise sparse coding for pruned deep neural networks with extreme compression ratio. Proceedings of the aaai conference on artificial intelligence. 34(04): 4900-4907. 2020. https://doi.org/10.1609/aaai.v34i04.5927
 
 
 # Grants
