@@ -39,7 +39,7 @@ Hi, I am Xiao. I received my Ph.D. in Computer Science from Nanjing University i
 -->
 
 
-- Yongxin Su, Mengyao Xu, Xiao Liu, Mao Tan*, Rui Wang, Chunhua Yang. Explainable reinforcement learning for enhancing personal thermal comfort and optimizing demand response in household multi-zone HVAC system. Science China. 2025.
+- Yongxin Su, Mengyao Xu, Xiao Liu, Mao Tan*, Rui Wang, Chunhua Yang. Explainable reinforcement learning for enhancing personal thermal comfort and optimizing demand response in household multi-zone HVAC system. Science China. 68, 1600403 (2025). https://doi.org/10.1007/s11431-024-2895-7
 https://doi.org/10.1007/s11431-024-2895-7.
 - Mao Tan, Jie Zhao, Xiao Liu*, Yongxin Su, Ling Wang, Rui Wang, Zhuocen Dai, Federated Reinforcement Learning for smart and privacy-preserving energy management of residential microgrids clusters, Engineering Applications of Artificial Intelligence, Volume 139, Part B, 2025, 109579, ISSN 0952-1976.
 https://doi.org/10.1016/j.engappai.2024.109579.
