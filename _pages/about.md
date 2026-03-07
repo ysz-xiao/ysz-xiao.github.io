@@ -38,12 +38,17 @@ Hi, I am Xiao. I received my Ph.D. in Computer Science from Nanjing University i
 - Transformer Fault Diagnosis Using DeepFaultNet on Imbalanced Datasets. 2025
 -->
 
+<!-- 质量一般的合作论文
+Hui Li, Changhao Zhu*, Xiao Liu, Lijuan Li, Hongzhi Liu. Hybrid binarized neural network for high-accuracy classification of power quality disturbances. Electrical Engineering, 2024. https://doi.org/10.1007/s00202-024-02650-y
+-->
 
+- Yannan Guo, Jiangling Yao, Xiao Liu*, ArcLight-AttGRU: An Ultra-Lightweight Attention-Gated GRU Framework for Low-Frequency Series Arc Fault Detection, IEEE Transactions on Instrumentation and Measurement, 2026.
+IEEE Transactions on Instrumentation & Measurement
+- Siyuan Zhang, Yannan Guo, Xiao Liu*. A Physics-Guided Feature-Subspace Ensemble Framework for Forecasting Photovoltaic and Wind Power Generation, Electric Power Systems Research, 2026.
 - Yongxin Su, Mengyao Xu, Xiao Liu, Mao Tan*, Rui Wang, Chunhua Yang. Explainable reinforcement learning for enhancing personal thermal comfort and optimizing demand response in household multi-zone HVAC system. Science China. 68, 1600403 (2025). https://doi.org/10.1007/s11431-024-2895-7
 https://doi.org/10.1007/s11431-024-2895-7.
 - Mao Tan, Jie Zhao, Xiao Liu*, Yongxin Su, Ling Wang, Rui Wang, Zhuocen Dai, Federated Reinforcement Learning for smart and privacy-preserving energy management of residential microgrids clusters, Engineering Applications of Artificial Intelligence, Volume 139, Part B, 2025, 109579, ISSN 0952-1976.
 https://doi.org/10.1016/j.engappai.2024.109579.
-- Hui Li, Changhao Zhu*, Xiao Liu, Lijuan Li, Hongzhi Liu. Hybrid binarized neural network for high-accuracy classification of power quality disturbances. Electrical Engineering, 2024. https://doi.org/10.1007/s00202-024-02650-y
 - 曹宏业, 刘潇, 董绍康, 杨尚东, 霍静, 李文斌, 高阳*. 面向强化学习的可解释性研究综述. 计算机学报, Vol. 47 No. 8. 2024.
 http://cjc.ict.ac.cn/online/onlinepaper/chy-2024729180508.pdf
 - Wubing Chen, Shangdong Yang, Wenbin Li, Yujing Hu, Xiao Liu, Yang Gao*. Learning multi-intersection traffic signal control via coevolutionary multi-agent reinforcement learning. IEEE Transactions on Intelligent Transportation Systems, 2024. https://ieeexplore.ieee.org/abstract/document/10556581
