@@ -43,7 +43,6 @@ Hui Li, Changhao Zhu*, Xiao Liu, Lijuan Li, Hongzhi Liu. Hybrid binarized neural
 -->
 
 - Yannan Guo, Jiangling Yao, Xiao Liu*, ArcLight-AttGRU: An Ultra-Lightweight Attention-Gated GRU Framework for Low-Frequency Series Arc Fault Detection, IEEE Transactions on Instrumentation and Measurement, 2026.
-IEEE Transactions on Instrumentation & Measurement
 - Siyuan Zhang, Yannan Guo, Xiao Liu*. A Physics-Guided Feature-Subspace Ensemble Framework for Forecasting Photovoltaic and Wind Power Generation, Electric Power Systems Research, 2026.
 - Yongxin Su, Mengyao Xu, Xiao Liu, Mao Tan*, Rui Wang, Chunhua Yang. Explainable reinforcement learning for enhancing personal thermal comfort and optimizing demand response in household multi-zone HVAC system. Science China. 68, 1600403 (2025). https://doi.org/10.1007/s11431-024-2895-7
 https://doi.org/10.1007/s11431-024-2895-7.
