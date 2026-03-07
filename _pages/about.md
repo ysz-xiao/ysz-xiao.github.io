@@ -55,9 +55,6 @@ http://cjc.ict.ac.cn/online/onlinepaper/chy-2024729180508.pdf
 - 刘潇, 刘书洋, 庄韫恺, 高阳*. 强化学习可解释性基础问题探索和方法综述. 软件学报. 2023, 34(5): 2300-2316. https://doi.org/10.13328/j.cnki.jos.006485
 - Xiao Liu, Wenbin Li, Jing Huo, Lili Yao, Yang Gao*. Layerwise sparse coding for pruned deep neural networks with extreme compression ratio. Proceedings of the aaai conference on artificial intelligence. 34(04): 4900-4907. 2020. https://doi.org/10.1609/aaai.v34i04.5927
 
-# Conferences
-- Xizheng Qiao, Xinyi Peng, Kangrui Qi, Xiao Liu*. Enhancing der scheduling in active distribution networks: A symbolic deep reinforcement learning approach for improved interpretability and performance, 2025 IEEE International Symposium on the Application of Artificial Intelligence in Electrical Engineering, 2025.
-- Jing Shi, Xinyi Peng, Xizheng Qiao, Xiao Liu*. Balancing accuracy and explainability: An ensemble-kan model for patent grant prediction, 20th International Society of Scientometrics and Informetrics Conference, Yerevan, Armenia, 2025.
 
 # Grants
 
@@ -65,9 +62,9 @@ http://cjc.ict.ac.cn/online/onlinepaper/chy-2024729180508.pdf
 - 湖南省自然科学基金青年项目，2024JJ6438，深度强化学习可解释策略简化与规则提取研究，2025.1-2027.12，主持
 
 <!--
-比较差的论文
-- Xizheng Qiao, Xinyi Peng, Kangrui Qi, Xiao Liu*. Enhancing der scheduling in active distribution networks: A symbolic deep reinforcement learning approach for improved interpretability and performance, 2025 IEEE International Symposium on the Application of Artificial Intelligence in Electrical Engineering, 2025. (本科生一作)
-- Jing Shi, Xinyi Peng, Xizheng Qiao, Xiao Liu*. Balancing accuracy and explainability: An ensemble-kan model for patent grant prediction, 20th International Society of Scientometrics and Informetrics Conference, Yerevan, Armenia, 2025. (本科生二作)
+# Conferences
+- Xizheng Qiao, Xinyi Peng, Kangrui Qi, Xiao Liu*. Enhancing der scheduling in active distribution networks: A symbolic deep reinforcement learning approach for improved interpretability and performance, 2025 IEEE International Symposium on the Application of Artificial Intelligence in Electrical Engineering, 2025.
+- Jing Shi, Xinyi Peng, Xizheng Qiao, Xiao Liu*. Balancing accuracy and explainability: An ensemble-kan model for patent grant prediction, 20th International Society of Scientometrics and Informetrics Conference, Yerevan, Armenia, 2025.
 -->
 
 <!--
