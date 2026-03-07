@@ -51,7 +51,7 @@ https://doi.org/10.1016/j.engappai.2024.109579.
 - 曹宏业, 刘潇, 董绍康, 杨尚东, 霍静, 李文斌, 高阳*. 面向强化学习的可解释性研究综述. 计算机学报, Vol. 47 No. 8. 2024.
 http://cjc.ict.ac.cn/online/onlinepaper/chy-2024729180508.pdf
 - Wubing Chen, Shangdong Yang, Wenbin Li, Yujing Hu, Xiao Liu, Yang Gao*. Learning multi-intersection traffic signal control via coevolutionary multi-agent reinforcement learning. IEEE Transactions on Intelligent Transportation Systems, 2024. https://ieeexplore.ieee.org/abstract/document/10556581
-- Wubing Chen, Wenbin Li, Xiao Liu, Gao Yang*. Learning explicit credit assignment for cooperative multi-agent reinforcement learning via polarization policy gradient, proceedings of the aaai conference on artificial intelligence. Vol. 37 No. 10: Technical Tracks 10. 2023. https://doi.org/10.1609/aaai.v37i10.26364
+- Wubing Chen, Wenbin Li, Xiao Liu, Yang Gao*. Learning explicit credit assignment for cooperative multi-agent reinforcement learning via polarization policy gradient, proceedings of the aaai conference on artificial intelligence. Vol. 37 No. 10: Technical Tracks 10. 2023. https://doi.org/10.1609/aaai.v37i10.26364
 - Xiao Liu, Shuyang Liu, Bo An, Yang Gao*, Wenbin Li. Effective interpretable policy distillation via critical experience point identification. IEEE Intelligent Systems. Vol. 38, Issue: 5, Sept.-Oct. 2023. https://doi.org/10.1109/MIS.2023.3265868
 - 刘潇, 刘书洋, 庄韫恺, 高阳*. 强化学习可解释性基础问题探索和方法综述. 软件学报. 2023, 34(5): 2300-2316. https://doi.org/10.13328/j.cnki.jos.006485
 - Xiao Liu, Wenbin Li, Jing Huo, Lili Yao, Yang Gao*. Layerwise sparse coding for pruned deep neural networks with extreme compression ratio. Proceedings of the aaai conference on artificial intelligence. 34(04): 4900-4907. 2020. https://doi.org/10.1609/aaai.v34i04.5927
