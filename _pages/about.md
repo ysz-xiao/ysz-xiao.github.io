@@ -53,15 +53,14 @@ Hui Li, Changhao Zhu*, Xiao Liu, Lijuan Li, Hongzhi Liu. Hybrid binarized neural
 - Xiao Liu, Wenbin Li, Jing Huo, Lili Yao, Yang Gao*. Layerwise sparse coding for pruned deep neural networks with extreme compression ratio. Proceedings of the aaai conference on artificial intelligence. 34(04): 4900-4907. 2020. https://doi.org/10.1609/aaai.v34i04.5927
 
 
-# Grants
-
-- 国家自然科学基金青年项目，62406272，多智能体强化学习的部署安全性验证方法，2025.1-2027.12，主持
-- 湖南省自然科学基金青年项目，2024JJ6438，深度强化学习可解释策略简化与规则提取研究，2025.1-2027.12，主持
-
-
 # 会议
 - Xizheng Qiao, Xinyi Peng, Kangrui Qi, Xiao Liu*. Enhancing der scheduling in active distribution networks: A symbolic deep reinforcement learning approach for improved interpretability and performance, 2025 IEEE International Symposium on the Application of Artificial Intelligence in Electrical Engineering, 2025. (本科生1作)
 - Jing Shi, Xinyi Peng, Xizheng Qiao, Xiao Liu*. Balancing accuracy and explainability: An ensemble-kan model for patent grant prediction, 20th International Society of Scientometrics and Informetrics Conference, Yerevan, Armenia, 2025. 
+
+# 项目
+
+- 国家自然科学基金青年项目，62406272，多智能体强化学习的部署安全性验证方法，2025.1-2027.12，主持
+- 湖南省自然科学基金青年项目，2024JJ6438，深度强化学习可解释策略简化与规则提取研究，2025.1-2027.12，主持
 
 
 <!--
