@@ -21,17 +21,16 @@ redirect_from:
 
 Hi, I am Xiao. I received my Ph.D. in Computer Science from Nanjing University in 2019 and 2023. Currently, I serve as a Lecturer in the School of Automation and Electronic Information at Xiangtan University. Our research interests primarily lie in Reinforcement Learning (RL) and Explainable Artificial Intelligence (XAI), with a focus on improving RL interpretability and designing scalable solutions for complex, real-world systems.
 
-# Courses
+# 课程
 
 《人工智能微专业：Python编程与实践》, 《多智能体系统》, 《计算机操作系统》
 
-# Publications
+# 论文
 
 <!--
 # Paper Under Submission
 - Lili Yao, Xiao Liu*, Yannan Guo, Kang Shi, Huayao Wu and Changhai Nie. Enhancing Illicit Transaction Detection on Blockchain via High-Order Semantics. 2025 (投稿，本科生三作)
 - Xizheng Qiao, Xinyi Peng, Kangrui Qi, Xiao Liu*. Symbolic Kolmogorov-Arnold Policy Gradient: An Interpretable Deep Reinforcement Learning Approach for DER Scheduling in Active Distribution Networks.2025 (投稿，本科生一作)
-- Yannan Guo, Jianling Yao, Jianyang Yao, Xiao Liu*. SPMC: A Frequency Domain-Based Multi-Classification Method for Detecting Anomalies in Bitcoin Transactions. 2025. (投稿，本科生一作)
 - Lin Wang, Fan Zhou, Xiao Liu*. Transformer Fault Diagnosis Using DeepFaultNet on Imbalanced Datasets, IEEE Transactions on Dielectrics and Electrical Insulation. (投稿，本科生二作)
 - Yi Su, Zhuoceng Dai, Xiao Liu*, Attack and Defense Against Deep Reinforcement Learning-Based Agent for Discrete Domains: Application in Distribution Network Reconfiguration. TASE. 2025.
 - Adversarial Attacks and Defense for Multi-Agent Deep Reinforcement Learning-Based Optimal Dispatching in an Active Distribution Network. 2025
@@ -42,8 +41,8 @@ Hi, I am Xiao. I received my Ph.D. in Computer Science from Nanjing University i
 Hui Li, Changhao Zhu*, Xiao Liu, Lijuan Li, Hongzhi Liu. Hybrid binarized neural network for high-accuracy classification of power quality disturbances. Electrical Engineering, 2024. https://doi.org/10.1007/s00202-024-02650-y
 -->
 
-- Yannan Guo, Jiangling Yao, Xiao Liu*, ArcLight-AttGRU: An Ultra-Lightweight Attention-Gated GRU Framework for Low-Frequency Series Arc Fault Detection, IEEE Transactions on Instrumentation and Measurement, 2026.
-- Siyuan Zhang, Yannan Guo, Xiao Liu*. A Physics-Guided Feature-Subspace Ensemble Framework for Forecasting Photovoltaic and Wind Power Generation, Electric Power Systems Research, 2026.
+- Yannan Guo, Jiangling Yao, Xiao Liu*, ArcLight-AttGRU: An Ultra-Lightweight Attention-Gated GRU Framework for Low-Frequency Series Arc Fault Detection, IEEE Transactions on Instrumentation and Measurement, 2026. (本科生1作)
+- Siyuan Zhang, Yannan Guo, Xiao Liu*. A Physics-Guided Feature-Subspace Ensemble Framework for Forecasting Photovoltaic and Wind Power Generation, Electric Power Systems Research, 2026. 
 - Yongxin Su, Mengyao Xu, Xiao Liu, Mao Tan*, Rui Wang, Chunhua Yang. Explainable reinforcement learning for enhancing personal thermal comfort and optimizing demand response in household multi-zone HVAC system. Science China. 68, 1600403 (2025). https://doi.org/10.1007/s11431-024-2895-7
 - Mao Tan, Jie Zhao, Xiao Liu*, Yongxin Su, Ling Wang, Rui Wang, Zhuocen Dai, Federated Reinforcement Learning for smart and privacy-preserving energy management of residential microgrids clusters, Engineering Applications of Artificial Intelligence, Volume 139, Part B, 2025, 109579, ISSN 0952-1976.
 https://doi.org/10.1016/j.engappai.2024.109579.
@@ -61,11 +60,11 @@ http://cjc.ict.ac.cn/online/onlinepaper/chy-2024729180508.pdf
 - 国家自然科学基金青年项目，62406272，多智能体强化学习的部署安全性验证方法，2025.1-2027.12，主持
 - 湖南省自然科学基金青年项目，2024JJ6438，深度强化学习可解释策略简化与规则提取研究，2025.1-2027.12，主持
 
-<!--
-# Conferences
-- Xizheng Qiao, Xinyi Peng, Kangrui Qi, Xiao Liu*. Enhancing der scheduling in active distribution networks: A symbolic deep reinforcement learning approach for improved interpretability and performance, 2025 IEEE International Symposium on the Application of Artificial Intelligence in Electrical Engineering, 2025.
-- Jing Shi, Xinyi Peng, Xizheng Qiao, Xiao Liu*. Balancing accuracy and explainability: An ensemble-kan model for patent grant prediction, 20th International Society of Scientometrics and Informetrics Conference, Yerevan, Armenia, 2025.
--->
+
+# 会议
+- Xizheng Qiao, Xinyi Peng, Kangrui Qi, Xiao Liu*. Enhancing der scheduling in active distribution networks: A symbolic deep reinforcement learning approach for improved interpretability and performance, 2025 IEEE International Symposium on the Application of Artificial Intelligence in Electrical Engineering, 2025. (本科生1作)
+- Jing Shi, Xinyi Peng, Xizheng Qiao, Xiao Liu*. Balancing accuracy and explainability: An ensemble-kan model for patent grant prediction, 20th International Society of Scientometrics and Informetrics Conference, Yerevan, Armenia, 2025. 
+
 
 <!--
 # 📖 履历
@@ -73,5 +72,4 @@ http://cjc.ict.ac.cn/online/onlinepaper/chy-2024729180508.pdf
 - *2019.09 - 2023.6*, 南京大学，博士研究生，导师高阳教授
 - *2018.09 - 2019.6*, 武汉大学，学术访问，导师杜博教授
 - *2015.09 - 2018.6*, 中南民族大学，硕士研究生，导师周斌教授
-- *2010.09 - 2014.6*, 中南民族大学，硕士研究生，导师周斌教授
 -->
