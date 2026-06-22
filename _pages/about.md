@@ -32,14 +32,11 @@ Hi, I am Xiao. I received my Ph.D. in Computer Science from Nanjing University i
 - Lili Yao, Xiao Liu*, Yannan Guo, Kang Shi, Huayao Wu and Changhai Nie. Enhancing Illicit Transaction Detection on Blockchain via High-Order Semantics. 2025 (投稿，本科生三作)
 - Xizheng Qiao, Xinyi Peng, Kangrui Qi, Xiao Liu*. Symbolic Kolmogorov-Arnold Policy Gradient: An Interpretable Deep Reinforcement Learning Approach for DER Scheduling in Active Distribution Networks.2025 (投稿，本科生一作)
 - Lin Wang, Fan Zhou, Xiao Liu*. Transformer Fault Diagnosis Using DeepFaultNet on Imbalanced Datasets, IEEE Transactions on Dielectrics and Electrical Insulation. (投稿，本科生二作)
-- Yi Su, Zhuoceng Dai, Xiao Liu*, Attack and Defense Against Deep Reinforcement Learning-Based Agent for Discrete Domains: Application in Distribution Network Reconfiguration. TASE. 2025.
 - Adversarial Attacks and Defense for Multi-Agent Deep Reinforcement Learning-Based Optimal Dispatching in an Active Distribution Network. 2025
 - Transformer Fault Diagnosis Using DeepFaultNet on Imbalanced Datasets. 2025
 -->
 
-<!-- 质量一般的合作论文
-Hui Li, Changhao Zhu*, Xiao Liu, Lijuan Li, Hongzhi Liu. Hybrid binarized neural network for high-accuracy classification of power quality disturbances. Electrical Engineering, 2024. https://doi.org/10.1007/s00202-024-02650-y
--->
+
 - Yi Su, Zhuocen Dai, Jiashen Teh, Olatunji Ahmed Lawal, Bilkisu Jimada-Ojuolape*, Xiao Liu*, Xiangwu Xiao,Lijuan Li.Attack and defense against deep reinforcement learning-based agent for discrete domains: Application in distribution network reconfiguration. Expert Systems with Applications. [https://ieeexplore.ieee.org/document/11449290](https://doi.org/10.1016/j.eswa.2026.131209))](https://doi.org/10.1016/j.eswa.2026.131209).
 - Yannan Guo, Jiangling Yao, Xiao Liu*, ArcLight-AttGRU: An Ultra-Lightweight Attention-Gated GRU Framework for Low-Frequency Series Arc Fault Detection, IEEE Transactions on Instrumentation and Measurement, 2026. [DOI: 10.1109/TIM.2026.3676094](https://ieeexplore.ieee.org/document/11449290) (本科生1作) 
 - Siyuan Zhang, Yannan Guo, Xiao Liu*. A Physics-Guided Feature-Subspace Ensemble Framework for Forecasting Photovoltaic and Wind Power Generation, Electric Power Systems Research, 2026. [https://doi.org/10.1016/j.epsr.2026.112925](https://www.sciencedirect.com/science/article/pii/S037877962600218X?via%3Dihub)
@@ -51,7 +48,9 @@ Hui Li, Changhao Zhu*, Xiao Liu, Lijuan Li, Hongzhi Liu. Hybrid binarized neural
 - Xiao Liu, Shuyang Liu, Bo An, Yang Gao*, Wenbin Li. Effective interpretable policy distillation via critical experience point identification. IEEE Intelligent Systems. Vol. 38, Issue: 5, Sept.-Oct. 2023. https://doi.org/10.1109/MIS.2023.3265868
 - 刘潇, 刘书洋, 庄韫恺, 高阳*. 强化学习可解释性基础问题探索和方法综述. 软件学报. 2023, 34(5): 2300-2316. https://doi.org/10.13328/j.cnki.jos.006485
 - Xiao Liu, Wenbin Li, Jing Huo, Lili Yao, Yang Gao*. Layerwise sparse coding for pruned deep neural networks with extreme compression ratio. Proceedings of the aaai conference on artificial intelligence. 34(04): 4900-4907. 2020. https://doi.org/10.1609/aaai.v34i04.5927
-
+<!-- 质量一般的合作论文
+Hui Li, Changhao Zhu*, Xiao Liu, Lijuan Li, Hongzhi Liu. Hybrid binarized neural network for high-accuracy classification of power quality disturbances. Electrical Engineering, 2024. https://doi.org/10.1007/s00202-024-02650-y
+-->
 
 # 会议
 - Xizheng Qiao, Xinyi Peng, Kangrui Qi, Xiao Liu*. Enhancing der scheduling in active distribution networks: A symbolic deep reinforcement learning approach for improved interpretability and performance, 2025 IEEE International Symposium on the Application of Artificial Intelligence in Electrical Engineering, 2025. (本科生1作)
